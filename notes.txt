@@ -1,0 +1,25 @@
+componentWillMount => its like pre
+
+componentDidMount => its like post
+
+constructor
+    |
+componentWillMount
+    |
+render
+    |
+componentDidMount
+
+
+news Api key ==> 0cd350599ca049b3b815aafed44c174c
+
+//controller component-> the state of forms fields are maintained in the state
+
+//install rect-router-dom npm package
+
+
+in react-router these are the components
+browser router
+link component
+route component
+
